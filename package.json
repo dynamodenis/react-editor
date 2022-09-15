@@ -17,6 +17,7 @@
     "axios": "^0.24.0",
     "bulmaswatch": "^0.8.1",
     "esbuild-wasm": "0.8.27",
+    "immer": "^9.0.15",
     "localforage": "^1.10.0",
     "prettier": "^2.5.1",
     "react": "^17.0.2",
